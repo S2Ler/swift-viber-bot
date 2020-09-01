@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ExpressSwift",
+        "repositoryURL": "https://github.com/S2Ler/ExpressSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "114c8889344f0dfa84961cc0b7e1fd4577788caf",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "Networker",
+        "repositoryURL": "https://github.com/S2Ler/Networker.git",
+        "state": {
+          "branch": "master",
+          "revision": "b25f386ba88cf791c36076c8f89bd8f43ec809c5",
+          "version": null
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log",
+        "state": {
+          "branch": null,
+          "revision": "173f567a2dfec11d74588eea82cecea555bdc0bc",
+          "version": "1.4.0"
+        }
+      },
+      {
+        "package": "swift-nio",
+        "repositoryURL": "https://github.com/apple/swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "5fc24345f92ec4c274121776c215ab0aa1ed4d50",
+          "version": "2.22.0"
+        }
+      },
+      {
+        "package": "swift-nio-ssl",
+        "repositoryURL": "https://github.com/apple/swift-nio-ssl.git",
+        "state": {
+          "branch": null,
+          "revision": "ea1dfd64193bf5af4490635a4a44c4fb43b1e1ae",
+          "version": "2.9.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
